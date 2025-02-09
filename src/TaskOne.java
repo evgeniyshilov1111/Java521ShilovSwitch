@@ -45,6 +45,9 @@ public class TaskOne {
                 break;
             case 12:
                 System.out.println("Декабрь");
+                break;
+            default:
+                System.out.println("неверное число месяца");
         }
     }
 }
